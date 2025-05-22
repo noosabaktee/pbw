@@ -36,6 +36,7 @@
         $mhs->nama = "Jeni";
         echo $mhs->sapa();
      
+        
     ?>
 </body>
 </html>
