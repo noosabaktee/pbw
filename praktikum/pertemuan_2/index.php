@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <?php include '../../header.php' ?>
     <h1>Judul Utama</h1>
     <h2>Judul Sub</h2>
     <p>Ini adalah paragraf.</p>

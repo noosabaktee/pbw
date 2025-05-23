@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <?php include '../../header.php' ?>
     <h1>Lamaran Pekerjaan</h1>
     <img src="rama.jpg" alt="Deskripsi Gambar" width="200" height="200" style="border-radius: 50%;">
     <p>Kepada Yth.</p>

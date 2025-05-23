@@ -92,6 +92,7 @@
     </style>
 </head>
 <body>
+    <?php include '../../header.php' ?>
     <h1>Selamat Datang di Website Kami</h1>
     <p>Ini adalah contoh penggunaan External CSS.</p>
     <div class="box">

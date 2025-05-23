@@ -6,6 +6,7 @@
     <title>Tugas 2</title>
 </head>
 <body>
+    <?php include '../../header.php' ?>
     <form action="" method="">
         <label>Nama: <input type="text" name="nama" required></label><br>
         <label>Email: <input type="email" name="email" required></label><br>

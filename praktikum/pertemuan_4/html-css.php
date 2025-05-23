@@ -4,7 +4,7 @@
    <link rel="stylesheet" href="style.css">
 </head>
 <body>
- 
+    <?php include '../../header.php' ?>
    <header>
        <h1>Selamat Datang di Website Singaperbangsa</h1>
    </header>

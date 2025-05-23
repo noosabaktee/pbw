@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <?php include '../../header.php' ?>
     <form action="" method="">
         <input type="text" name="username" required> 
         <textarea name="komentar" rows="4" cols="50" placeholder="Masukkan komentar Anda"></textarea>

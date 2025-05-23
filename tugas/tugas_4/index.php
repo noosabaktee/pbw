@@ -7,7 +7,7 @@
     <script src="script.js"></script>
 </head>
 <body>
-
+    <?php include '../../header.php' ?>
     <div class="container">
         <h2>Cek Nilai Mahasiswa</h2>
         <label for="nim">NIM:</label>

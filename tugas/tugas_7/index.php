@@ -4,6 +4,7 @@
     <title>Latihan PHP</title>
 </head>
 <body>
+    <?php include '../../header.php' ?>
     <h1>Menu Navigasi</h1>
     <ul>
         <li><a href="?page=kendaraan">Jenis Kendaraan</a></li>

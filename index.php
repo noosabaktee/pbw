@@ -68,16 +68,15 @@
   </style>
 </head>
 <body>
-  <header>
-    <h1>📚 Daftar Materi PBW - Rama Nusa Bakti</h1>
-  </header>
+    <?php include 'header.php' ?>
+
   <div class="container">
 
     <!-- pertemuan_2 -->
     <div class="card">
       <h2>📖 Pertemuan 2</h2>
       <ul>
-        <li><a href="praktikum/pertemuan_2/index.html">index.html</a></li>
+        <li><a href="praktikum/pertemuan_2/index.php">index.php</a></li>
       </ul>
     </div>
 
@@ -85,7 +84,7 @@
     <div class="card">
       <h2>📖 Pertemuan 3</h2>
       <ul>
-        <li><a href="praktikum/pertemuan_3/index.html">index.html</a></li>
+        <li><a href="praktikum/pertemuan_3/index.php">index.php</a></li>
       </ul>
     </div>
 
@@ -93,8 +92,8 @@
     <div class="card">
       <h2>📖 Pertemuan 4</h2>
       <ul>
-        <li><a href="praktikum/pertemuan_4/html-css.html">html-css.html</a></li>
-        <li><a href="praktikum/pertemuan_4/index.html">index.html</a></li>
+        <li><a href="praktikum/pertemuan_4/html-css.php">html-css.php</a></li>
+        <li><a href="praktikum/pertemuan_4/index.php">index.php</a></li>
         <li><a href="praktikum/pertemuan_4/style.css">style.css</a></li>
       </ul>
     </div>
@@ -103,15 +102,41 @@
     <div class="card">
       <h2>📖 Pertemuan 5</h2>
       <ul>
-        <li><a href="praktikum/pertemuan_5/index.html">index.html</a></li>
+        <li><a href="praktikum/pertemuan_5/index.php">index.php</a></li>
       </ul>
     </div>
+
+    <!-- pertemuan_9 -->
+    <div class="card">
+      <h2>📖 Pertemuan 9</h2>
+      <ul>
+        <li><a href="praktikum/pertemuan_9/index.php">index.php</a></li>
+      </ul>
+    </div>
+
+    <!-- pertemuan_10 -->
+    <div class="card">
+      <h2>📖 Pertemuan 10</h2>
+      <ul>
+        <li><a href="praktikum/pertemuan_10/index.php">index.php</a></li>
+      </ul>
+    </div>
+
+    <!-- pertemuan_11 -->
+    <div class="card">
+      <h2>📖 Pertemuan 11</h2>
+      <ul>
+        <li><a href="praktikum/pertemuan_11/index.php">index.php</a></li>
+      </ul>
+    </div>
+
+    <br>
 
     <!-- tugas_1 -->
     <div class="card">
       <h2>📝 Tugas 1</h2>
       <ul>
-        <li><a href="tugas/tugas_1/index.html">index.html</a></li>
+        <li><a href="tugas/tugas_1/index.php">index.php</a></li>
       </ul>
     </div>
 
@@ -119,7 +144,7 @@
     <div class="card">
       <h2>📝 Tugas 2</h2>
       <ul>
-        <li><a href="tugas/tugas_2/index.html">index.html</a></li>
+        <li><a href="tugas/tugas_2/index.php">index.php</a></li>
       </ul>
     </div>
 
@@ -127,7 +152,7 @@
     <div class="card">
       <h2>📝 Tugas 3</h2>
       <ul>
-        <li><a href="tugas/tugas_3/index.html">index.html</a></li>
+        <li><a href="tugas/tugas_3/index.php">index.php</a></li>
         <li><a href="tugas/tugas_3/style.css">style.css</a></li>
       </ul>
     </div>
@@ -136,8 +161,33 @@
     <div class="card">
       <h2>📝 Tugas 4</h2>
       <ul>
-        <li><a href="tugas/tugas_4/index.html">index.html</a></li>
+        <li><a href="tugas/tugas_4/index.php">index.php</a></li>
         <li><a href="tugas/tugas_4/script.js">script.js</a></li>
+      </ul>
+    </div>
+
+    <!-- tugas_5 -->
+    <div class="card">
+      <h2>📝 Tugas 5</h2>
+      <ul>
+        <li><a href="tugas/tugas_5/latihan_nilai.php">latihan_nilai.php</a></li>
+        <li><a href="tugas/tugas_5/diskon.php">diskon.php</a></li>
+      </ul>
+    </div>
+
+    <!-- tugas_6 -->
+    <div class="card">
+      <h2>📝 Tugas 6</h2>
+      <ul>
+        <li><a href="tugas/tugas_6/index.php">index.php</a></li>
+      </ul>
+    </div>
+
+    <!-- tugas_7 -->
+    <div class="card">
+      <h2>📝 Tugas 7</h2>
+      <ul>
+        <li><a href="tugas/tugas_7/index.php">index.php</a></li>
       </ul>
     </div>
 

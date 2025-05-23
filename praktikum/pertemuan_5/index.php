@@ -3,6 +3,7 @@
    <title>Kalkulator Sederhana</title>
 </head>
 <body>
+    <?php include '../../header.php' ?>
    <h2>Kalkulator</h2>
    <input type="number" id="num1">
    <input type="number" id="num2">
