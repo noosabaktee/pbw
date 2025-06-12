@@ -16,12 +16,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
    if ($stmt->execute()) {
        echo "<script>
            alert('Pelanggan berhasil ditambahkan!');
-           window.location.href = 'tambah_buku.php';
+           window.location.href = 'pelanggan.php';
        </script>";
    } else {
        echo "<script>
            alert('Gagal menambahkan buku: " . addslashes($stmt->error) . "');
-           window.location.href = 'tambah_buku.php';
+           window.location.href = 'pelanggan.php';
        </script>";
    }
 }
