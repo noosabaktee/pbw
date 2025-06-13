@@ -130,6 +130,14 @@
       </ul>
     </div>
 
+    <!-- pertemuan_12 -->
+    <div class="card">
+      <h2>📖 Pertemuan 12</h2>
+      <ul>
+        <li><a href="praktikum/pertemuan_12/index.php">index.php</a></li>
+      </ul>
+    </div>
+
     <br>
 
     <!-- tugas_1 -->
