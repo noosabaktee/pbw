@@ -25,6 +25,18 @@
                 <li class="nav-item">
                     <a class="nav-link" href="lihat_transaksi.php">Lihat Pesanan</a>
                 </li>
+                <?php 
+                if (!isset($_SESSION['login_Un51k4'])) {
+                    echo  '<li class="nav-item">
+                            <a class="nav-link" href="login.php">Login</a>
+                        </li>';
+                }else{
+                    echo  '<li class="nav-item">
+                            <a class="nav-link" href="logout.php">Logout</a>
+                        </li>';
+                }
+
+                ?>
             </ul>
         </div>
     </div>
